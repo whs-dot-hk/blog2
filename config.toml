@@ -1,0 +1,4 @@
+baseURL = 'https://whs.hk/'
+languageCode = 'en-us'
+title = 'Wong Heung Sang'
+theme = "mainroad"
